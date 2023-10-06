@@ -1,5 +1,5 @@
 Author:
-Zhiyuan Li
+Zhiyuan (June) Li
 
 Description:
 HW2_1.py & HW2_2.py are files for homework question1.
